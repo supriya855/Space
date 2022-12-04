@@ -1,0 +1,18 @@
+body{
+    margin:30px;
+    margin-top:80px;
+   background-image: url(https://images.immediate.co.uk/production/volatile/sites/25/2020/04/Things-never-knew-astronomy-e454e5d.jpg);
+   
+   background-size: cover;
+   object-fit: cover;
+}
+.btn{
+    text-align: center;
+   color:white;
+    
+}
+.head{
+    color: whitesmoke;
+    text-align: center;
+
+}
